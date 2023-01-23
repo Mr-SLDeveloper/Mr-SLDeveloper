@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <script src="https://kit.fontawesome.com/215137976a.js" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/215137976a.js" crossorigin="anonymous"> </script>
 </head>
 <body>
   <h1><center>Hi There👋 Welcome To My Page</center></h1>
