@@ -7,7 +7,7 @@
  </p>
 <p>
   <a href="####">
-    <img src="https://cdn-icons-png.flaticon.com/512/3182/3182857.png">
+    <img src="https://cdn-icons-png.flaticon.com/512/3182/3182857.png" width=100px height="100px>>
 </a>
 </p>
 </body>
