@@ -7,7 +7,7 @@
  </p>
 <p>
   <a href="####">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ficons%2Faeroplan&psig=AOvVaw0m1Mya-KAmx8B22-eru0AP&ust=1674545778098000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMjy4qSX3fwCFQAAAAAdAAAAABAE](https://cdn.iconscout.com/icon/premium/png-128-thumb/aeroplan-3605948-3006523.png">
+    <img src="https://cdn-icons-png.flaticon.com/512/3182/3182857.png>
 </a>
 </p>
 </body>
